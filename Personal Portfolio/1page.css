@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.another h2{
+    margin-top: 10;
+    margin-left: 10%;
+    font-style:normal;
+    color:rgb(7, 201, 62)
+}
+.another p{
+    font-size: 13;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.images{
+    width: 45%;
+    height: 100%;
+    position: center;
+    right: 100px;
+    margin-left: 18%;
+}

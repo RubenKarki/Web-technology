@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: black;
+    color: whitesmoke;
+}
+.third h4{
+ color:rgb(0, 184, 31)
+}
+
+.third h5{
+ color:rgb(240, 65, 11)
+}
+
+.third{
+    font-size: 10;
+    font-family: Arial;
+   margin-top: 100px;
+   margin-left: 30px;
+   text-align: center;
+}
+.fourth{
+    font-size: 10;
+    font-family: Arial;
+    margin-right: 20px;
+    text-align: center;
+}
+.images{
+   margin-left: 480px;
+   margin-top: 50px;
+   
+}
